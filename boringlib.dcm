@@ -1,0 +1,24 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74HC08
+D Quad Dual-Input AND
+K Quad Dual-Input AND
+F https://www.ti.com/lit/ds/symlink/sn74hc08.pdf?ts=1603725517834
+$ENDCMP
+#
+$CMP 74HC21
+D Dual Quad-Input AND
+F https://www.ti.com/lit/ds/symlink/sn74hc21.pdf?ts=1603551665027
+$ENDCMP
+#
+$CMP 74HC266
+D Quad Dual-input XNOR
+F https://www.ti.com/lit/ds/symlink/sn74hc266.pdf?ts=1603548217449
+$ENDCMP
+#
+$CMP 74LVC1G17
+D Non-inverting buffer
+F https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g17
+$ENDCMP
+#
+#End Doc Library
