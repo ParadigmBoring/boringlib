@@ -25,4 +25,14 @@ $CMP NUCLEO-L476RG
 D STM32L476RG Nucleo-64 Board with pin headers
 $ENDCMP
 #
+$CMP R-78B-2.0
+D Linear regulator replacement
+F https://recom-power.com/pdf/Innoline/R-78B-2.0.pdf
+$ENDCMP
+#
+$CMP R-78B12-2.0
+D Linear regulator replacement
+F https://recom-power.com/pdf/Innoline/R-78B-2.0.pdf
+$ENDCMP
+#
 #End Doc Library
