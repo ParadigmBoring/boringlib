@@ -25,4 +25,26 @@ $CMP NUCLEO-L476RG
 D STM32L476RG Nucleo-64 Board with pin headers
 $ENDCMP
 #
+<<<<<<< HEAD
+<<<<<<< HEAD
+$CMP Recom_R-78c-1.0
+D Recom switching regulator (5V output)
+F https://d311uvhi8lkjbj.cloudfront.net/media/Datasheet/pdf/.f91HWzyW/.t321978fcd1ad139cbfa2/Datasheet-260/R-78C-1_0.pdf
+=======
+=======
+>>>>>>> 63f11bc8369ed1feec80feb35a66d04be33a5342
+$CMP R-78B-2.0
+D Linear regulator replacement
+F https://recom-power.com/pdf/Innoline/R-78B-2.0.pdf
+$ENDCMP
+#
+$CMP R-78B12-2.0
+D Linear regulator replacement
+F https://recom-power.com/pdf/Innoline/R-78B-2.0.pdf
+<<<<<<< HEAD
+>>>>>>> 63f11bc8369ed1feec80feb35a66d04be33a5342
+=======
+>>>>>>> 63f11bc8369ed1feec80feb35a66d04be33a5342
+$ENDCMP
+#
 #End Doc Library
