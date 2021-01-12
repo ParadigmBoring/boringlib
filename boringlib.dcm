@@ -16,28 +16,13 @@ D Quad Dual-input XNOR
 F https://www.ti.com/lit/ds/symlink/sn74hc266.pdf?ts=1603548217449
 $ENDCMP
 #
+$CMP 74LV163A
+F https://www.ti.com/lit/ds/symlink/sn74lv163a.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1610416579827
+$ENDCMP
+#
 $CMP 74LVC1G17
 D Non-inverting buffer
 F https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g17
-$ENDCMP
-#
-<<<<<<< Updated upstream
-$CMP LTC6991
-D Timer
-F https://www.analog.com/media/en/technical-documentation/data-sheets/LTC6991.pdf
-=======
-$CMP ADC128S022
-D ADC
-F https://www.ti.com/lit/ds/symlink/adc128s022.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1609868307293
->>>>>>> Stashed changes
-$ENDCMP
-#
-$CMP NUCLEO-L476RG
-D STM32L476RG Nucleo-64 Board with pin headers
-$ENDCMP
-#
-$CMP R-78C12-1.0
-F https://recom-power.com/pdf/Innoline/R-78C-1.0.pdf
 $ENDCMP
 #
 #End Doc Library
