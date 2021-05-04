@@ -1,4 +1,4 @@
-(module ST_Nucleo-64 (layer F.Cu) (tedit 5FAF34F0)
+(module ST_Nucleo-64 (layer F.Cu) (tedit 6091C666)
   (fp_text reference REF** (at 0 5.08) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -86,6 +86,11 @@
   (pad 76 thru_hole circle (at 63.5 -0.01) (size 1.75 1.75) (drill 1.016) (layers *.Cu *.Mask))
   (pad 69 thru_hole circle (at 60.96 -7.63) (size 1.75 1.75) (drill 1.016) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 55.88 -48.26) (size 4.5 4.5) (drill 3.2) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at 7.62 -47.87) (size 4.5 4.5) (drill 3.2) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 7.62 -49.53) (size 4.5 4.5) (drill 3.2) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 40.68 2.54) (size 4.5 4.5) (drill 3.2) (layers *.Cu *.Mask))
+  (model ${KIPARADIGMMOD}/boringlib/3dModels/NUCLEO-F411RE-Cut.STEP
+    (offset (xyz 40.65 -2.55 2))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
